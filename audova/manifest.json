@@ -1,0 +1,31 @@
+{
+  "name": "Sadhana · Audova",
+  "short_name": "Sadhana",
+  "start_url": "/audova/",
+  "scope": "/audova/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4F7F9",
+  "theme_color": "#518BAF",
+  "lang": "es-AR",
+  "icons": [
+    {
+      "src": "/icono-sadhana-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icono-sadhana-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icono-sadhana-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
